@@ -1,2 +1,2 @@
 # Cours-Python-Les-statistiques
-The python for statistics cours codes and notes.
+The python for statistics course codes and notes.
